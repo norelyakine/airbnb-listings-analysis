@@ -60,7 +60,6 @@ All plots saved in the `visuals/` folder.
 |----------------|--------------|--------------|
 | Price Distribution | Histogram of final prices | `price_distribution.png` |
 | Ratings Distribution | Histogram of listing ratings | `rating_distribution.png` |
-| Duration Distribution | Booking duration histogram | `duration_distribution.png` |
 | Property Types | Frequency of each property type | `property_type_distribution.png` |
 | Price by Property Type | Boxplot comparing prices | `price_by_property_distribution.png` |
 | Rating by City | Boxplot showing ratings by city | `rating_by_city_distribution.png` |
