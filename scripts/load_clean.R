@@ -1,5 +1,6 @@
-library(dplyr)
-library(stringr)
+library(tidyverse)
+library(lubridate)
+ 
 
 airbnb <- read_csv("data/airnb.csv")
 
@@ -106,3 +107,8 @@ airbnb <- airbnb %>%
   rename_with(~ str_replace(.x, "^.", toupper))
 
 
+
+# <-- Cleaned Dataset-->
+clean_airbnb <- airbnb %>%
+  select(Property_type, City, Country, Detail_clean, Bed_count, Final_price,Discount, Final_price, Start_date, End_date, Duration_days, Nb_reviews, Rating, Location_full)
+write.csv(clean_airbnb,"cleaned_data/clean_airbnb.csv")
