@@ -1,4 +1,4 @@
-# Airbnb Data Dashboard & Analysis
+# Airbnb Listings Analysis
 ## Overview
 This project analyzes Airbnb listing data to explore **price trends**, **ratings**, and **property distribution** across various cities.  
 Using **R** for data cleaning and analysis, and **Tableau** for interactive visualization, this project showcases a full data analysis workflow; from raw CSVs to insights.
