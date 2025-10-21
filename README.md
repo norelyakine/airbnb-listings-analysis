@@ -89,7 +89,7 @@ The cleaned dataset was imported into Tableau to create interactive visualizatio
 - **Seasonal Pricing**  
   Prices peak in January and December, with a mid-year dip; revealing clear seasonality. This supports dynamic pricing strategies and promotional planning.
 - **Customer Satisfaction**  
-  Ratings are consistently high (mostly 4.7–5.0), suggesting strong service quality or positive user bias. Low ratings are rare, reinforcing platform reliability.
+  Ratings are consistently high (mostly 4.7-5.0), suggesting strong service quality or positive user bias. Low ratings are rare, reinforcing platform reliability.
 - **Price vs Rating**  
   No strong correlation between price and rating, budget listings perform as well as premium ones. Value perception is driven more by experience than cost.
 
