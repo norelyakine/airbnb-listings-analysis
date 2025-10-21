@@ -82,10 +82,16 @@ The cleaned dataset was imported into Tableau to create interactive visualizatio
 ---
 
 ## Key Insights
-- Most listings are highly rated (4.5–5.0), showing general customer satisfaction.  
-- Prices vary widely by property type, **villas and cabins** -> most expensive.  
-- A few extreme prices (> $1000) create visible outliers.  
-- Strong seasonal variation is visible in monthly price trends.
+- **Market Concentration**  
+  Listings are heavily concentrated in North America, Western Europe, and Southeast Asia. Top cities like Kissimmee, Ubud, and Cancún indicate strong demand in both urban and tourist hubs.
+- **Property Type Trends**  
+  Apartments, houses, and guesthouses dominate the supply. Niche types (treehouses, yurts...) offer unique positioning opportunities for experience-driven travelers.
+- **Seasonal Pricing**  
+  Prices peak in January and December, with a mid-year dip; revealing clear seasonality. This supports dynamic pricing strategies and promotional planning.
+- **Customer Satisfaction**  
+  Ratings are consistently high (mostly 4.7–5.0), suggesting strong service quality or positive user bias. Low ratings are rare, reinforcing platform reliability.
+- **Price vs Rating**  
+  No strong correlation between price and rating, budget listings perform as well as premium ones. Value perception is driven more by experience than cost.
 
 ## Author 
 Aya Nor Elyakine
