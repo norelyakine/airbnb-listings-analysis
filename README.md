@@ -1,7 +1,7 @@
 # Airbnb Data Analysis & Visualization
 ## Overview
 This project analyzes Airbnb listing data to explore **price trends**, **ratings**, and **property distribution** across various cities.  
-Using **R** for data cleaning and analysis, and **Tableau** for interactive visualization, this project showcases a full data analysis workflow — from raw CSVs to insights.
+Using **R** for data cleaning and analysis, and **Tableau** for interactive visualization, this project showcases a full data analysis workflow; from raw CSVs to insights.
 
 ## Dataset
 - **Source:** [Airbnb Listing Data for Data Science](https://www.kaggle.com/datasets/joyshil0599/airbnb-listing-data-for-data-science)  
@@ -83,7 +83,7 @@ The cleaned dataset was imported into Tableau to create interactive visualizatio
 
 ## Key Insights
 - Most listings are highly rated (4.5–5.0), showing general customer satisfaction.  
-- Prices vary widely by property type — **villas and cabins** tend to be most expensive.  
+- Prices vary widely by property type, **villas and cabins** -> most expensive.  
 - A few extreme prices (> $1000) create visible outliers.  
 - Strong seasonal variation is visible in monthly price trends.
 
